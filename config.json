@@ -1,0 +1,344 @@
+{
+  "token": "MTI4MzQzMDE2MDAzNjY1OTIyMQ.GDmTa7.wrWqPLH2qy3g9bSpOgaL3czn_g0B_9bSd2a-Ms",
+  "owner": [
+    "930152665810354216"
+  ],
+  "role": "1287080520068366419",
+  "user": {
+    "1289710763040313447": {
+      "id": "1289710763040313447",
+      "token": "MTI4OTcxMDc2MzA0MDMxMzQ0Nw.GZs82n.vqkPjWqbB_-COC0eMvQQ0lWUKDlp3hkVSDDp1w"
+    },
+    "1298795056404234250": {
+      "id": "1298795056404234250",
+      "token": "MTI5ODc5NTA1NjQwNDIzNDI1MA.GjUgCP._-wNnZdQR-lGgD0nPVKHcESVldpYfQnEEhMHCo"
+    },
+    "1175415698969870389": {
+      "id": "1175415698969870389",
+      "token": "MTE3NTQxNTY5ODk2OTg3MDM4OQ.GBflrX.i28s2R8QtSaU9PREo7A6ZTpOBODElGAZGYE0lU"
+    },
+    "1282331924324683859": {
+      "id": "1282331924324683859",
+      "token": "MTI4MjMzMTkyNDMyNDY4Mzg1OQ.Gzk7w8.ABZl-KP6BE08wxlRt0MJpcJLHXe72RsojI9DSA"
+    },
+    "1297896222362832960": {
+      "id": "1297896222362832960",
+      "token": "MTI5Nzg5NjIyMjM2MjgzMjk2MA.GNlpS6.JC4xrAEkYd4HUdSzF-yGjwnEeOwyLtzpr1gWC4"
+    },
+    "1280934488158765193": {
+      "id": "1280934488158765193",
+      "token": "MTI4MDkzNDQ4ODE1ODc2NTE5Mw.G9Kaws.8NEKL4rdRCtY-88EbMq9Pjde3ujCZt9FC5Dpko"
+    },
+    "1299270168584654858": {
+      "id": "1299270168584654858",
+      "token": "MTI5OTI3MDE2ODU4NDY1NDg1OA.GK5smP.pEKdnlagbMVp5YjlvGfhOlhhrclNLya1pPfOSI"
+    },
+    "1163856173993304175": {
+      "id": "1163856173993304175",
+      "token": "MTE2Mzg1NjE3Mzk5MzMwNDE3NQ.GjCV4W.Zj6E4Tbzx7hM5PHhbKgdfC05MXA8-r1QWSJ2mo"
+    },
+    "1100493902097678346": {
+      "id": "1100493902097678346",
+      "token": "MTEwMDQ5MzkwMjA5NzY3ODM0Ng.GDiTVt.rzU-YcxcH5W1tFp0w-UdaHWgYfEVhrETjTFRZk"
+    },
+    "1286623190533013546": {
+      "id": "1286623190533013546",
+      "token": "MTI4NjYyMzE5MDUzMzAxMzU0Ng.G3mUtX.I3suk6t6XtMi7OMjwrFJCjbOMr4k2cOML-i9_Y"
+    },
+    "982604352676036639": {
+      "id": "982604352676036639",
+      "token": "OTgyNjA0MzUyNjc2MDM2NjM5.G4UGJh.hr6CrtcOYmqfoiwemmq24RvpCKVwiYkbYNclcI"
+    },
+    "998254287060746290": {
+      "id": "998254287060746290",
+      "token": "OTk4MjU0Mjg3MDYwNzQ2Mjkw.GlBHTM.LlLZkekAcu2MKoNwOTixxZ6gn8PZM8JA-TwKz4"
+    },
+    "1218643442935140414": {
+      "id": "1218643442935140414",
+      "token": "MTIxODY0MzQ0MjkzNTE0MDQxNA.GQauD2.OTJPWnfc7XArvZ3vphkLjIml84tWaxiRUUgXw8"
+    },
+    "1257296938169274526": {
+      "id": "1257296938169274526",
+      "token": "MTI1NzI5NjkzODE2OTI3NDUyNg.GdFaaL.moB9QJuIec9ZOUuzhkAAumtUIsDimZkpUHBE98"
+    },
+    "1275435193137762447": {
+      "id": "1275435193137762447",
+      "token": "MTI3NTQzNTE5MzEzNzc2MjQ0Nw.GFQsqe.sBkKRxB2myW0zSNf2Nd-79MilnLD77gWLp3YQk"
+    },
+    "999279605619892274": {
+      "id": "999279605619892274",
+      "token": "OTk5Mjc5NjA1NjE5ODkyMjc0.Gv7C0_.SjCukXHN2yRTnOdbjZAsGG3xlYz1NtI0s--p50"
+    },
+    "1209546891529031751": {
+      "id": "1209546891529031751",
+      "token": "MTIwOTU0Njg5MTUyOTAzMTc1MQ.GUoDqG.rpFq-1h3zcoOACePGdSsIBgi5WiwA6W9BeBcwM"
+    },
+    "1262910424744067184": {
+      "id": "1262910424744067184",
+      "token": "MTI2MjkxMDQyNDc0NDA2NzE4NA.GLOuJc.AOAgmdtzLg_8hn0BU91y68GAqoqhLiFieygKMo"
+    },
+    "1117821454776549547": {
+      "id": "1117821454776549547",
+      "token": "MTExNzgyMTQ1NDc3NjU0OTU0Nw.GbQEUW.onxChEpIr90HmUwlayhIsvminE_8eVmQbkABWU"
+    },
+    "1226188965078503434": {
+      "id": "1226188965078503434",
+      "token": "MTIyNjE4ODk2NTA3ODUwMzQzNA.GPRbPx.Wk0T-oVdSWCm6eYY8P-461kfJcp5gNHDC3PcgQ"
+    },
+    "1184395755507679255": {
+      "id": "1184395755507679255",
+      "token": "MTE4NDM5NTc1NTUwNzY3OTI1NQ.GxRYkv.wJhFdREncz8s0u12lRO69Z2GhnwkvirHLGRImg"
+    },
+    "951835093259939861": {
+      "id": "951835093259939861",
+      "token": "OTUxODM1MDkzMjU5OTM5ODYx.G3VI2i.wdBFgmEGgrvZmiHd1oqdqdwKyI_7d0sMbx_W7Q"
+    },
+    "1241694622959407185": {
+      "id": "1241694622959407185",
+      "token": "MTI0MTY5NDYyMjk1OTQwNzE4NQ.Gy-G9l.BYaXmGy5oGdMpi1B3FQWqzln9I3mVbKBiqx2CY"
+    },
+    "1271129170780360775": {
+      "id": "1271129170780360775",
+      "token": "MTI3MTEyOTE3MDc4MDM2MDc3NQ.GoM0eZ.6KezznyJ1n4f50I_yCCr98UWwy3LlRlcFrZC-k"
+    },
+    "1010906200063365170": {
+      "id": "1010906200063365170",
+      "token": "MTAxMDkwNjIwMDA2MzM2NTE3MA.Gx4tD8.0BX6ApJZYmX5IhuD17y4IKwRJVCjAolBDEa_w8"
+    },
+    "1277901019187249155": {
+      "id": "1277901019187249155",
+      "token": "MTI3NzkwMTAxOTE4NzI0OTE1NQ.Gf3U4Y.n9gfs8WIc7do360V_3m9aX3hTxtfrFynMhBdZY"
+    },
+    "1285257317260066998": {
+      "id": "1285257317260066998",
+      "token": "MTI4NTI1NzMxNzI2MDA2Njk5OA.GmD8wh.LCt8A4eDLRTRgzSM9OUAmHSi7LG9To0dnG65_A"
+    },
+    "927170122702020679": {
+      "id": "927170122702020679",
+      "token": "OTI3MTcwMTIyNzAyMDIwNjc5.GwDu4g.YkX0qYT2E7Xi-oeJNjzLYHVtp4FYmJR6al5_cQ"
+    },
+    "1265798399815323679": {
+      "id": "1265798399815323679",
+      "token": "MTI2NTc5ODM5OTgxNTMyMzY3OQ.GjpfuA.2sZngDXOUI527RkaBln2OehIWVsG0YgTrtCq_8"
+    },
+    "1298695857872441377": {
+      "id": "1298695857872441377",
+      "token": "MTI5ODY5NTg1Nzg3MjQ0MTM3Nw.GUED6i.oLv_zkl1eUDHjy7Z1ZGmagK7-YbkzzG0AFOzO0"
+    },
+    "1022047663019012108": {
+      "id": "1022047663019012108",
+      "token": "MTAyMjA0NzY2MzAxOTAxMjEwOA.Gb_YI8.ogXR13Y-jJQB_6TVxB68shb_o3tTzPKzeJQjNQ"
+    },
+    "995740909494870218": {
+      "id": "995740909494870218",
+      "token": "OTk1NzQwOTA5NDk0ODcwMjE4.GgpL_5.pa_z7eqPoGBMFdC0W5mKpZJhVNVd8U4g_1JKBs"
+    },
+    "1169675087402762308": {
+      "id": "1169675087402762308",
+      "token": "MTE2OTY3NTA4NzQwMjc2MjMwOA.GW438s.U2vrvxOmkHZtUx49z9bvdgBpMYoziaJjhSf1uM"
+    },
+    "1251525380850974792": {
+      "id": "1251525380850974792",
+      "token": "MTI1MTUyNTM4MDg1MDk3NDc5Mg.Gdsoj2.5re__vXHmKd8fdfcT5Xldddkn3aJJu0jey9Tmc"
+    },
+    "1165941203850756147": {
+      "id": "1165941203850756147",
+      "token": "MTE2NTk0MTIwMzg1MDc1NjE0Nw.GPwcvT.HnQoKU8RlYUyk1LC0eW-WL-Fwwvsn-4B4p3j6Y"
+    },
+    "841039563594268742": {
+      "id": "841039563594268742",
+      "token": "ODQxMDM5NTYzNTk0MjY4NzQy.GwTEpJ.ii-5GSuzuCCwBSEHl9ztVhWHmf0e8BmNb3miuo"
+    },
+    "1269317902067302464": {
+      "id": "1269317902067302464",
+      "token": "MTI2OTMxNzkwMjA2NzMwMjQ2NA.GRD1y7.sWFQsWVWz7AUkuUD-GpsHbBageEnDFWhkC7E0c"
+    },
+    "1263969294065074256": {
+      "id": "1263969294065074256",
+      "token": "MTI2Mzk2OTI5NDA2NTA3NDI1Ng.GjRk9V.mSLZCCJboQsAJR_uAGohQGhnMq9lOL-W06fJUQ"
+    },
+    "1271888143888683102": {
+      "id": "1271888143888683102",
+      "token": "MTI3MTg4ODE0Mzg4ODY4MzEwMg.GbWOoG.Tv9nMtGqhnp-Dgj0iJJUxPXxqKNeA1mgfu3K_E"
+    },
+    "1152971086435196988": {
+      "id": "1152971086435196988",
+      "token": "MTE1Mjk3MTA4NjQzNTE5Njk4OA.GmDFrB.uLdMr_DXrFfCP16qEsoiYiGw6SWKKJw87svqd0"
+    },
+    "893941800945991690": {
+      "id": "893941800945991690",
+      "token": "ODkzOTQxODAwOTQ1OTkxNjkw.GD2gYi.Wu8tpckPdVaNLRlBqK6bx_hPpbb8J-5ETM1OLU"
+    },
+    "1020980538015744072": {
+      "id": "1020980538015744072",
+      "token": "MTAyMDk4MDUzODAxNTc0NDA3Mg.GzvU-q.ENxk2O-PPSU18EnmdtIGOPU99mrlTU0972DXvM"
+    },
+    "1142806566781857862": {
+      "id": "1142806566781857862",
+      "token": "MTE0MjgwNjU2Njc4MTg1Nzg2Mg.G1GNlb.okvBALAbDeSlOvybIhgyJyonG3noeau7qn26Pc"
+    },
+    "1282015852807327815": {
+      "id": "1282015852807327815",
+      "token": "MTI4MjAxNTg1MjgwNzMyNzgxNQ.GfO53c.hbitk5TR0F2iuwPyybFLh8LWa2I3wMy2_7dgxo"
+    },
+    "1263780693192872018": {
+      "id": "1263780693192872018",
+      "token": "MTI2Mzc4MDY5MzE5Mjg3MjAxOA.GkG86J.g4bOi9N0Yql9pKdA3kveMwGifPFhi2Pqah3Klc"
+    },
+    "990635198892871720": {
+      "id": "990635198892871720",
+      "token": "OTkwNjM1MTk4ODkyODcxNzIw.GpL6QD.K-lRIreyEgLmkSjrP14ZaVTOFv6pum8DjHJsGo"
+    },
+    "1143269429069746218": {
+      "id": "1143269429069746218",
+      "token": "MTE0MzI2OTQyOTA2OTc0NjIxOA.GcrMh3.hmynhCcfUufeqR9YK8Bj29QDwKwNlvu735Q9kk"
+    },
+    "1051187049568403546": {
+      "id": "1051187049568403546",
+      "token": "MTA1MTE4NzA0OTU2ODQwMzU0Ng.GpX4FY.4A9662cZ-nUB8O8gKwELf44Qss9PrjGgkvGyUo"
+    },
+    "707311538612076656": {
+      "id": "707311538612076656",
+      "token": "NzA3MzExNTM4NjEyMDc2NjU2.GLgiPB.xm8dJ07-fs8LQMbsBGqH6niTxUXQWh8vNfLtM0"
+    },
+    "1258803869303967915": {
+      "id": "1258803869303967915",
+      "token": "MTI1ODgwMzg2OTMwMzk2NzkxNQ.GoaviY.aKSxHJyOI6s9p2cQXFB-zrbs3d5aRWtgskKc8s"
+    },
+    "979803448717479936": {
+      "id": "979803448717479936",
+      "token": "OTc5ODAzNDQ4NzE3NDc5OTM2.GWwRCB.C6U_SnAARW8t4DUl1y_ZEef0nwiVfDDmUotMh0"
+    },
+    "1152994483370201129": {
+      "id": "1152994483370201129",
+      "token": "MTE1Mjk5NDQ4MzM3MDIwMTEyOQ.GWUkS4.Yi58rfSu8ycr-vbZ09_jMn0q49u9qHyE9pJLrQ"
+    },
+    "1257791231413584086": {
+      "id": "1257791231413584086",
+      "token": "MTI1Nzc5MTIzMTQxMzU4NDA4Ng.GPgIb7.11zmJdysUleM_DnMul8hwlon2ISCu4oKmHtiBY"
+    },
+    "930152665810354216": {
+      "id": "930152665810354216",
+      "token": "OTMwMTUyNjY1ODEwMzU0MjE2.GYwYsp.vv8E4QO4_HCJRyCSRHjKbscKc_6-kUiGFmvUpM"
+    },
+    "727320423708098601": {
+      "id": "727320423708098601",
+      "token": "NzI3MzIwNDIzNzA4MDk4NjAx.Gg4I5_._92csxrZnDD1mpwcOgYgfVTxCgbhsmeLnGH05w"
+    },
+    "1272930752127959093": {
+      "id": "1272930752127959093",
+      "token": "MTI3MjkzMDc1MjEyNzk1OTA5Mw.GDRNY8.chjnN-VLXexS3vfZmXtZ5yAjTPnb-OJb8szVEg"
+    },
+    "1214481810948366426": {
+      "id": "1214481810948366426",
+      "token": "MTIxNDQ4MTgxMDk0ODM2NjQyNg.GGgsC1.rpmbz6aYbTs6DKP9Hh1FM_mBMUlL7ioePRvJ4U"
+    },
+    "1003804972732911760": {
+      "id": "1003804972732911760",
+      "token": "MTAwMzgwNDk3MjczMjkxMTc2MA.GQdQ5m.-VzF0nrzNuOwvqB2zBRzsiv6Wk0wnGxJ6YD2jM"
+    },
+    "1136256685237866647": {
+      "id": "1136256685237866647",
+      "token": "MTEzNjI1NjY4NTIzNzg2NjY0Nw.GJIAVN.-fv4Ei1-R3zUMfD4fUEO3FxRwzARNMgRpF5ReY"
+    },
+    "617447440081223687": {
+      "id": "617447440081223687",
+      "token": "NjE3NDQ3NDQwMDgxMjIzNjg3.GqFXfX.B3HM0GTBlcqywBrDNFhubZ94W3vGq_1x44K_Xk"
+    },
+    "1289950397280288791": {
+      "id": "1289950397280288791",
+      "token": "MTI4OTk1MDM5NzI4MDI4ODc5MQ.Gwx3nr.jJxlTHXhcCjDcaBj6TsOjPs91EIkSUv88KZiko"
+    },
+    "1244005829452107796": {
+      "id": "1244005829452107796",
+      "token": "MTI0NDAwNTgyOTQ1MjEwNzc5Ng.GSlT0U.gZWx3zuYvI26o9xDlNS18VE0FnQkV0PMoI45CI"
+    },
+    "966788394048970753": {
+      "id": "966788394048970753",
+      "token": "OTY2Nzg4Mzk0MDQ4OTcwNzUz.GUmA7W.1dAs1bfEBDcPuY5b_FpjlIki1_KutozJu-1-qw"
+    },
+    "738421948647997491": {
+      "id": "738421948647997491",
+      "token": "NzM4NDIxOTQ4NjQ3OTk3NDkx.GCLL5J.qFr34QijxUkVk94bH2xFOgsCntJQSDSJe7OiqI"
+    },
+    "928300665166512219": {
+      "id": "928300665166512219",
+      "token": "OTI4MzAwNjY1MTY2NTEyMjE5.GXxmtE.vjzmURAzZQJWJfDOPAI0RGf8XVFfMB538mBWNY"
+    },
+    "1261028428803604564": {
+      "id": "1261028428803604564",
+      "token": "MTI2MTAyODQyODgwMzYwNDU2NA.GUBzJ9.nkiPRDwVHzzPd8TV0LwqRwoxnPZckzCYEB3b4s"
+    },
+    "1301615315146244230": {
+      "id": "1301615315146244230",
+      "token": "MTMwMTYxNTMxNTE0NjI0NDIzMA.GpddOI.2B4CRWJgZe0dPSFj2dL9-FWQyjzl5mRPCSK_Gs"
+    },
+    "1234569270248083520": {
+      "id": "1234569270248083520",
+      "token": "MTIzNDU2OTI3MDI0ODA4MzUyMA.Ga4hXy.rc91eJxXILyRrWCzHAzzTRCTywkJCnwjwecDT8"
+    },
+    "1277583836846231576": {
+      "id": "1277583836846231576",
+      "token": "MTI3NzU4MzgzNjg0NjIzMTU3Ng.GUTlcE.kGiNtc2g879AaHoR27xw0eJfht5jt7b7ndg9dY"
+    },
+    "1262942373273534515": {
+      "id": "1262942373273534515",
+      "token": "MTI2Mjk0MjM3MzI3MzUzNDUxNQ.GYnwX4.2TCrrFjCYhegYDNuiAwlwiXjgNnf5CfdN5oIbk"
+    },
+    "1302292629098074205": {
+      "id": "1302292629098074205",
+      "token": "MTMwMjI5MjYyOTA5ODA3NDIwNQ.GnJ1b-.OcnGrVhhGFk4TZ4dQUP8tayTFR15ltrbPpG85o"
+    },
+    "745924141189824513": {
+      "id": "745924141189824513",
+      "token": "NzQ1OTI0MTQxMTg5ODI0NTEz.G6ABU9.FbHYQNpcdU2sOQmU4ItbV6X1a-vhRDc8O5O2Cs"
+    },
+    "1147160228773756971": {
+      "id": "1147160228773756971",
+      "token": "MTE0NzE2MDIyODc3Mzc1Njk3MQ.Gr6hzH.n_m6zeeAs5Y5pieRZle7FF5hnXQjTAM9SX62yw"
+    },
+    "1001868171566911589": {
+      "id": "1001868171566911589",
+      "token": "MTAwMTg2ODE3MTU2NjkxMTU4OQ.Gdnz8R.jULG4BntK7xOIv2CXu9foY3D4DGvtW6m9Tm908"
+    },
+    "1295351537333440598": {
+      "id": "1295351537333440598",
+      "token": "MTI5NTM1MTUzNzMzMzQ0MDU5OA.GFGXds.gHEJCql0phRjio8bQHmwdA4_b05e-1hsYHjKDo"
+    },
+    "1122272601436336248": {
+      "id": "1122272601436336248",
+      "token": "MTEyMjI3MjYwMTQzNjMzNjI0OA.Gvq939.dreLS-ILRPlVfhY6PQwre0j3un61Img_X9XRo8"
+    },
+    "1243251383948410971": {
+      "id": "1243251383948410971",
+      "token": "MTI0MzI1MTM4Mzk0ODQxMDk3MQ.G-ox6o.aa3KWuiVFgYuqI7eq885NSw1G5B6LVdjILi2xw"
+    }
+  },
+  "logprivé": [
+    1284166312444297200
+  ],
+  "premiumUsers": [
+    "930152665810354216",
+    "1232084326892437618",
+    "1136256685237866647",
+    "617447440081223687",
+    "893941800945991690",
+    "1265798399815323679",
+    "1165941203850756147",
+    "1199996252868329575",
+    "1001868171566911589",
+    "1265348015812776003",
+    "1269317902067302464",
+    "1277901019187249155",
+    "1020980538015744072",
+    "1236631012344074242",
+    "1258803869303967915"
+  ],
+  "whitelist": [
+    "930152665810354216"
+  ],
+  "welcomeMessages": {
+    "1265595157819166730": "Bienvenue",
+    "1280687129747525702": "Bienvenue {user}"
+  }
+}
